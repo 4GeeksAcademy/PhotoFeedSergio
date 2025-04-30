@@ -1,0 +1,41 @@
+.navbar-brand{
+  font-family: "Cal Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.navbar{
+  background-image: url(https://img.freepik.com/foto-gratis/nubes-al-estilo-anime_23-2151071731.jpg?semt=ais_hybrid&w=740) !important;
+  background-size: 310px;
+}
+.btn-icon img{
+width: 50px;
+height: auto;
+}
+.btn-end{
+  padding-right: 10px;
+  margin-left: auto;
+}
+.dropdown{
+  z-index: 1;
+}
+#btnFilas3{
+  margin-right: 5%;
+  padding: 0;
+}
+#Postsection .card {
+  height: auto !important;
+  margin-bottom: 1%
+}
+#Postsection img {
+  height: 100%;
+  width: auto;
+}
+#Postsection.grid-view .card-body,
+#Postsection.grid-view .card-footer {
+  display: none !important;
+}
+#Postsection.grid-view img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
